@@ -1,0 +1,18 @@
+﻿  Shapes.cpp
+d:\games\c++ games\shapes\shapes\angel.h(66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\games\c++ games\shapes\shapes\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\shapes\shapes\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\shapes\shapes\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\shapes\shapes\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\shapes\shapes\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\shapes\shapes\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\shapes\shapes\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\shapes\shapes\shapes.cpp(15): warning C4018: '<': signed/unsigned mismatch
+d:\games\c++ games\shapes\shapes\shapes.cpp(27): warning C4305: '=': truncation from 'double' to 'float'
+d:\games\c++ games\shapes\shapes\shapes.cpp(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\shapes\shapes\shapes.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\shapes\shapes\shapes.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\shapes\shapes\shapes.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\shapes\shapes\shapes.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\shapes\shapes\shapes.cpp(93): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Shapes.vcxproj -> D:\Games\C++ games\Shapes\Debug\Shapes.exe
